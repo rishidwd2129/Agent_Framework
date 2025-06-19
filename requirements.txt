@@ -1,0 +1,10 @@
+langchain
+langgraph
+langchain-community
+langchain-ollama
+transformers
+torch # Or appropriate version for your system/GPU
+sentencepiece
+accelerate
+pydantic
+python-dotenv
